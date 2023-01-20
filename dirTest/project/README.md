@@ -17,8 +17,8 @@
 - dientes
 - oreja izquierda (Pero no la derecha)
 
-
-
+[Colaboracion como Derethar para crear a distintos tonos de piel para Koh y Sayo](https://twitter.com/plasmi99/status/1582871437542424576?cxt=HHwWgICg_fPLvvcrAAAA)
+![El pelo especialmente fue algo que me tomo investigacion](https://pbs.twimg.com/media/Ffd8D9ZXwAA2byd?format=png&name=900x900)
 
 --------------------------------------------------------------------------- (queria conservar el readme para estudiar)
 In this directory, you should write the program `wcat.c` and compile it into
