@@ -1,4 +1,26 @@
+# DOCUMENTACION DE LA EVALUACION
 
+## Enfrentamiento a muerte de textos
+**Texto en negrilla** vs el *Texto en italica* vs
+> remarcado. o al menos esa es la idea
+
+### Miembros corporales y otras cosas
+1. Cabeza
+2. Hombros
+3. Pecho
+4. Piernas
+5. Patas, eso es.
+
+- dedos
+- extremidades
+- nariz
+- dientes
+- oreja izquierda (Pero no la derecha)
+
+
+
+
+--------------------------------------------------------------------------- (queria conservar el readme para estudiar)
 In this directory, you should write the program `wcat.c` and compile it into
 the binary `wcat` (e.g., `gcc -o wcat wcat.c -Wall -Werror`).
 
